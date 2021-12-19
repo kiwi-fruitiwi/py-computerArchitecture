@@ -1,3 +1,5 @@
+# 6/11 in binary numbering system
+# https://www.codecademy.com/courses/computer-architecture/lessons/binary-numbering-system/exercises/adding-binary-numbers
 # printing in python using something similar to string.format. what is the f?
 
 number_to_convert = 206
